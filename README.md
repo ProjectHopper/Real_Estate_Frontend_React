@@ -1,3 +1,18 @@
+# Created real estate front-end webpage using React App
+
+
+![1](https://github.com/ProjectHopper/Real_Estate_Frontend_ReactApp/assets/139052598/81851091-cc40-4d1c-88ad-6ee7c442849d)
+
+
+![2](https://github.com/ProjectHopper/Real_Estate_Frontend_ReactApp/assets/139052598/50e54022-a808-44bc-9e89-4fe4f2f52458)
+
+
+
+
+
+![3](https://github.com/ProjectHopper/Real_Estate_Frontend_ReactApp/assets/139052598/60331728-6431-4efe-bb65-041bf2bbd590)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,7 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm run start`
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -41,7 +56,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
